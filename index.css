@@ -1,0 +1,158 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.gg-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%; 
+    height: 1024px;
+    object-fit: cover;
+}
+.desktop-2-child {
+    position: absolute;
+    top: -232px;
+    right: -250px;
+    border-radius: 50%;
+    background-color: #2c2c2c;
+    width: 808px;
+    height: 781px;
+}
+.desktop-2-item {
+    position: absolute;
+    top: 56px;
+    left: -22px;
+    border-radius: 12px;
+    background-color: #000;
+    width: 401px;
+    height: 67px;
+}
+.commit-corp {
+    position: absolute;
+    top: 70px;
+    left: 103px;
+}
+.desktop-2-inner {
+    position: absolute;
+    top: 449px;
+    left: 103px;
+    border-radius: 10px;
+    background-color: #cbcbcb;
+    width: 907px;
+    height: 194px;
+}
+.the-commitment-to {
+    position: absolute;
+    top: 489px;
+    left: 160px;
+    font-size: 24px;
+    color: #000;
+    display: inline-block;
+    width: 811px;
+    height: 221px;
+}
+.cj-1-icon {
+    position: absolute;
+    top: 65px;
+    left: 10px;
+    width: 79px;
+    height: 49px;
+    object-fit: cover;
+}
+.house-with-a-garden {
+    position: absolute;
+    top: 158px;
+    right: -5px;
+    width: 374px;
+    height: 331px;
+    object-fit: cover;
+}
+.rectangle-div {
+    position: absolute;
+    top: 70px;
+    left: 627px;
+    border-radius: 50px;
+    background-color: #565353;
+    width: 263px;
+    height: 48px;
+}
+.desktop-2-child1 {
+    position: absolute;
+    top: 60px;
+    left: 910px;
+    border-radius: 50px;
+    background-color: #565353;
+    width: 218px;
+    height: 58px;
+}
+.about {
+    position: absolute;
+    top: 74px;
+    left: 703px;
+    display: inline-block;
+    width: 131px;
+    height: 31px;
+}
+.projects {
+    position: absolute;
+    top: 73px;
+    left: 936px;
+}
+.desktop-2-child2 {
+    position: absolute;
+    top: 51px;
+    left: 1204px;
+    border-radius: 53px;
+    background-color: #6c6c6c;
+    width: 181px;
+    height: 72px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 63px;
+    left: 1325px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 49px;
+    height: 49px;
+}
+.instagram-icon {
+    position: absolute;
+    top: 932px;
+    left: 47px;
+    width: 58px;
+    height: 61px;
+    object-fit: cover;
+}
+.facebook-icon {
+    position: absolute;
+    top: 925px;
+    left: 146px;
+    width: 60px;
+    height: 75px;
+    object-fit: cover;
+}
+.twitter-icon {
+    position: absolute;
+    top: 925px;
+    left: 247px;
+    width: 63px;
+    height: 75px;
+    object-fit: cover;
+}
+.desktop-2 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    cursor: pointer;
+    text-align: left;
+    font-size: 32px;
+    color: #fff;
+    font-family: Inter;
+}
+
